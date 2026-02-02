@@ -1,2 +1,2 @@
-CNN Framework using just NumPy for linear algebra,
-This is a part of my A-Level Computer Science NEA scoring me full marks in the "technical solution" component of the project 
+### CNN Framework using NumPy.
+This repository showcases the first iteration of a convolutional neural network framework built using NumPy (Now i know Python wouldnt be the best choice for a low level framework, but this project was to learn)
