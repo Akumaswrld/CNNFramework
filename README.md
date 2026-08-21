@@ -1,5 +1,17 @@
-# CNN Framework using NumPy.
-This repository showcases the first iteration of a convolutional neural network framework built using NumPy (Built for educational purposes)
+# CNN Framework from scratch using NumPy.
+This repository showcases a Convolutional Neural Network framework that I built without the use of any pre-existing machine learning framework.
+
+# Why
+Studying Mathematics and Further Mathematics at A-Levels, I was very drawn to Linear Algebra and its application so I started researching into it and after reading Human Compatible by Stuart Russell, I was drawn to machine learning and so I set out to challenge myself to build a framework which removes all abstraction and allows me to understand the tech at its core.
+
+# What I implemented
+Implemented convolutional layers, dense layers, optimisers and forward/backward propagation logic for each layer type
+
+# What I learned
+How modern ML works under the hood - gradient descent, parameter optimisation and through doing so, improved my ability to write module OOP code 
+
+# Limitations
+Purely educational and is NOT optimised for production 
 
 ## convolutional_layer.py
 ### ConvolutionLayer Class
