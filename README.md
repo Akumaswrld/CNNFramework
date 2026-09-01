@@ -2,7 +2,7 @@
 This repository showcases a Convolutional Neural Network framework that I built without the use of any pre-existing machine learning framework.
 
 # Why
-Studying Mathematics and Further Mathematics at A-Levels, I was very drawn to Linear Algebra and its application so I started researching into it and after reading Human Compatible by Stuart Russell, I was drawn to machine learning and so I set out to challenge myself to build a framework which removes all abstraction and allows me to understand the tech at its core.
+Studying Mathematics at school, I was very drawn to Linear Algebra and its application so I started researching into it and after reading Human Compatible by Stuart Russell and seeing videos about Neural Nets on yt, I was drawn to machine learning and so I set out to challenge myself to build a framework which removes all abstraction and allows me to understand the tech at its core.
 
 # What I implemented
 Implemented convolutional layers, dense layers, optimisers and forward/backward propagation logic for each layer type
